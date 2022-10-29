@@ -1,6 +1,6 @@
 {
   "name": "risky-word-detection",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Filter out bad words, profane words or dangerous words",
   "main": "index.js",
   "scripts": {
