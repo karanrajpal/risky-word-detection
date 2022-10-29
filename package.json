@@ -1,0 +1,31 @@
+{
+  "name": "risky-word-detection",
+  "version": "0.0.1",
+  "description": "Filter out bad words, profane words or dangerous words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanrajpal/risky-word-detection.git"
+  },
+  "keywords": [
+    "word",
+    "filter",
+    "profane",
+    "dangerous",
+    "word",
+    "list",
+    "brand",
+    "safety",
+    "word",
+    "list"
+  ],
+  "author": "Karan Rajpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanrajpal/risky-word-detection/issues"
+  },
+  "homepage": "https://github.com/karanrajpal/risky-word-detection#readme"
+}
